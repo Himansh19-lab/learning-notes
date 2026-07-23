@@ -1,2 +1,9 @@
 # learning-notes
-# 📚 Notes Repository  A personal collection of study notes covering programming, computer science, machine learning, deep learning, MLOps, AI, software engineering, and related topics.  This repository contains:  * 📝 Handwritten notes (scanned PDFs) * 📄 Digital/typed notes (PDFs) * 📖 Concept summaries and quick revision sheets * 💡 Interview preparation notes * 🔬 Learning resources collected during my study journey  The goal of this repository is to organize knowledge in one place for easy revision, continuous learning, and sharing with the community.
+# 📚 Notes Repository  
+A personal collection of study notes covering programming, computer science, machine learning, deep learning, MLOps, AI, software engineering, and related topics.  
+This repository contains:  
+* 📝 Handwritten notes (scanned PDFs)
+* 📄 Digital/typed notes (PDFs)
+* 📖 Concept summaries and quick revision sheets 
+* 💡 Interview preparation notes
+* 🔬 Learning resources collected during my study journey  The goal of this repository is to organize knowledge in one place for easy revision, continuous learning, and sharing with the community.
