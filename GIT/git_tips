@@ -1,0 +1,4 @@
+
+You did git commit but have NOT pushed
+  If you want to undo the commit but keep all your changes in the working directory:
+  git reset HEAD~1
